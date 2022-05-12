@@ -1,2 +1,2 @@
-# TREK landing page
+# TREK Landing page
 
