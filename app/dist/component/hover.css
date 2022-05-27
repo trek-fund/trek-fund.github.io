@@ -35,7 +35,7 @@
   transition: all 0.3s ease;
   content: "";
   position: absolute;
-  background: #0e2230;
+  background: #000;
   z-index: -1;
 }
 .countdown__item::before,

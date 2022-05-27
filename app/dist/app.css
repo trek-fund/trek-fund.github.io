@@ -834,7 +834,7 @@
   z-index: 1;
 }
 .post-item .content-item .content::before {
-  background: rgba(34, 183, 143, 0.1);
+  background: rgba(241, 242, 242, 0.1);
   backdrop-filter: blur(10px);
   position: absolute;
   content: "";
@@ -1112,11 +1112,11 @@
 }
 .roadmap .box .rm-box .corner-box {
   position: relative;
-  background: #0e2431;
+  background: #1f1f33;
   padding: 18px;
 }
 .roadmap .box .rm-box .corner-box.active, .roadmap .box .rm-box .corner-box:hover {
-  box-shadow: 0 0px 32px 0 rgba(34, 183, 143, 0.5);
+  box-shadow: 0 0px 32px 0 #6668ab;
 }
 .roadmap .box .rm-box .corner-box h5 {
   margin-bottom: 18px;
