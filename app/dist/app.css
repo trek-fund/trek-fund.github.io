@@ -5984,6 +5984,7 @@ img.mfp-img {
 
   .team-box .image img {
     max-height: 100%;
+    width:100%; height:auto;
   }
 
   .gallery .gallery-thumbs {
